@@ -1,6 +1,9 @@
 # Gorsel-programlama-ornek-proje
 Görsel Programlama ile örnek oyun veya projeler için fikir oluşturacaktır.
 
+Oluşturacağımız projenin çalışması için "pip install pygame" bu komutu komut istemcisinde veya terminalde çalıştırarak Pygame'i yükleyin.
+
+
 görsel oyun, bir oyuncu karakterini kontrol etmeyi ve düşman karakterlerden kaçmanızı amaçlar. İşte oyunun açıklaması bir açıklama:
 
 Oyun Ekranı: başladığında Oyun, kullanım alanımız ve yüksekliğe sahip bir oyun ekranı gösterimi. Bu ekran üzerinde oyuncu karakterimiz ve düşman karakterlerimiz hareket eder.
